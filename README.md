@@ -12,7 +12,7 @@ Avance de nuevos ejemplos en phpmyadmin
 |***codigo**| varchar|20|
 |nombre|varchar|20|
 
-![Tabla fabricante](./img/fabricante "Articulo")
+![Tabla fabricante](./img/fabricante.png "Articulo")
 
 ## Tabla: Articulos
 
